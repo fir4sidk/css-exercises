@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+.odd{
+    background-color: #FFA8B5;
+    font: Verdana, 'DejaVu Sans', 'sans-serif';
+}
+#n2{
+    color: blue;
+    font-size: 36px;
+}
+.adjust_font{
+    font-size: 24px;
+}
+#n4{
+    background-color: rgb(109, 201, 109);
+    font-weight: bold;
+}
